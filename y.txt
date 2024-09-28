@@ -7,6 +7,7 @@ main()
           result=i*j;
           printf("%d*%d=%-3d",i,j,result);/*-3d表示左对齐，占3位*/
        }
+//hhhhhh
       printf("\n");/*每一行后换行*/
    }
 }
