@@ -23,3 +23,4 @@ printf("The new string is----%s\n",str);
 fprintf(fp,"The new string is----%s\n",str);
 fclose(fp);
 }
+//修改
